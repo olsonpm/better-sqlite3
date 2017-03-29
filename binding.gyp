@@ -8,7 +8,7 @@
         "deps/sqlite3.gyp:sqlite3"
       ],
       'cflags': [
-        '-std=c++11'
+        '-std=c++0x'
       ],
       'xcode_settings': {
         'OTHER_CPLUSPLUSFLAGS': [
